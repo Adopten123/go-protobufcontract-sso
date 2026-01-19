@@ -1,3 +1,3 @@
-module go-protobuff-contract-sso
+module github.com/Adopten123/go-protobufcontract-sso
 
 go 1.24
